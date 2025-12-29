@@ -1,9 +1,9 @@
-# Awesome-LLM-Finetuning-Guide
+# LLM-Cookbook 
 
 
 <div align='center'>
     <img src="./images/head.png" alt="alt text" width="100%">
-    <h1>Awesome-LLM-Finetuning</h1>
+    <h1>LLM-Cookbook</h1>
 </div>
 
 <div align="center">
