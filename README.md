@@ -2,7 +2,7 @@
 
 
 <div align='center'>
-    <img src="/docs/images/head.png" alt="alt text" width="100%"> 
+    <img src="/docs/images/2.jpg" alt="alt text" width="100%"> 
     <h1>LLM-Cookbook</h1>
 </div>
 
@@ -72,7 +72,7 @@
 |----------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------|
 | 第一章   | NLP详解                          | NLP的基本概念、演进之路、文本表示技术的演进、核心任务                                                                                  | ✅    |
 | 第二章   | Transformer 架构                  | 注意力机制、Encoder-Decoder：序列转换的经典架构、搭建一个Transformer                                                                    | ✅    |
-| 第三章   | 预训练语言模型                   | Encoder-only PLM、Encoder-Decoder PLM、Decoder-Only PLM、三种架构的对比与选择指南                                                         | ✅    |
+| 第三章   | 预训练语言模型                   | Encoder-only PLM、Encoder-Decoder PLM、Decoder-Only PLM、三种架  构的对比与选择指南                                                         | ✅    |
 | 第四章   | 大语言模型                       | 什么是LLM、如何训练一个LLM                                                                                                              | ✅    |
 | 第五章   | 大模型微调                       | 监督微调（SFT）、LoRA：参数高效的微调革命、Adapter：模块化的微调方案、Prefix Tuning与Prompt Tuning、RLHF：对齐人类偏好的高级技术、Prompt Engineering vs Fine-tuning、实战指南：从零到一完成微调项目、常见陷阱与解决方案 | ✅    |
 | 第六章   | 微调与其他模型优化方案的区别     | 微调 vs 提示工程、微调 vs 模型蒸馏、微调 vs 预训练、综合决策框架、模型微调坑点与技巧                                                       | ✅    |
@@ -273,7 +273,7 @@ LLaMA-Factory 是一个开源的大模型微调与部署平台，致力于降低
 
 扫描二维码关注我们，获取最新技术动态和活动信息：
 
-![alt text](/docs/images/15.png)
+![alt text](/docs/images/1.jpg)
 
 
 **一起构建更智能的未来！** 🚀
