@@ -2,7 +2,7 @@
 
 
 <div align='center'>
-    <img src="/docs/images/2.jpg" alt="alt text" width="100%"> 
+    <img src="./images/2.jpg" alt="alt text" width="100%"> 
     <h1>LLM-Cookbook</h1>
 </div>
 
