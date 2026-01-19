@@ -2,7 +2,7 @@
 
 
 <div align='center'>
-    <img src="./images/head.png" alt="alt text" width="100%">
+    <img src="./images/2.jpg" alt="alt text" width="100%">
     <h1>LLM-Cookbook</h1>
 </div>
 
@@ -155,15 +155,6 @@ LLaMA-Factory Online是一个零代码低门槛的大语言模型训练与微调
 | mllm_video_audio_demo | 1.1KB | `/shared-only/datasets/mllm_video_audio_demo.json` | llamafactory | 该数据集是 Sharegpt 格式的多模态视频与音频演示数据集，包含用户针对视频和音频提出的问题及对应助手的回答，同时提供视频和音频文件的路径，用于多模态模型在视频与音频问答方面的学习和微调。 |
 
 
-
-
-## PDF版本下载
-  本Awesome-LLM-Finetuning-Guide教程完全开源免费。为防止各类营销号加水印后贩卖给大模型初学者，我们特地在PDF文件中预先添加了不影响阅读的`Awesome-LLM-Finetuning-Guide`开源标志水印，敬请谅解～
-
-<!-- 
-**最新版本下载**：
-- 完整版 PDF：https://github.com/your-org/awesome-llm-finetuning-guide/releases/tag/v1.0.0
-- 精简版（实操部分）：https://github.com/your-org/awesome-llm-finetuning-guide/releases/tag/v1.0.0-lite -->
 
 ## 💡 如何学习
 
