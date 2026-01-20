@@ -121,14 +121,9 @@
 | MiniCPM-V-4_5 | 视觉理解 | /shared-only/models/openbmb/MiniCPM-V-4_5 | OpenBMB | 最新轻量视觉模型 |
 | Ovis2.5-9B | 通用模型 | /shared-only/models/openbmb/MiniCPM-V-4_5 | OpenBMB | 最新通用模型 |
 
-
-
-
-
-
 ## 📊 行业专用数据集库
 
-平台内置海量AI模型，这些数据集共同构成了从基础预训练到高级任务微调的完整数据生态，支持多语言、多模态大语言模型的开发与训练，点击[数据集列表](./Extra-Chapter/datasetlList)免费获取更多高质量数据集。D:\LLaMA-Factory-Online\Extra-Chapter\datasetlList.md
+平台内置海量AI模型，这些数据集共同构成了从基础预训练到高级任务微调的完整数据生态，支持多语言、多模态大语言模型的开发与训练，点击[数据集列表](./Extra-Chapter/datasetlList.md)免费获取更多高质量数据集。D:\LLaMA-Factory-Online\Extra-Chapter\datasetlList.md
 
 **基础预训练**数据集：包括wikipedia_zh、wikipedia_en、refinedweb和redpajama_v2等，它们规模巨大、内容通用，是模型学习语言和世界知识的基石。
 
