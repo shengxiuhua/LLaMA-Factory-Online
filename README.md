@@ -91,7 +91,7 @@
 
 ## 精选最新模型列表
 
-平台内置海量AI模型，用户只需点击[模型列表](/Extra-Chapter/modelList)可查看并获取所有模型，无需逐一手动搜索。以下是平台最新推出的代表性模型示例：Qwen3、InternVL3、Qwen3-VL 等。模型普遍具备以下前沿技术特性：  
+平台内置海量AI模型，用户只需点击[模型列表](./Extra-Chapter/modelList)可查看并获取所有模型，无需逐一手动搜索。以下是平台最新推出的代表性模型示例：Qwen3、InternVL3、Qwen3-VL 等。模型普遍具备以下前沿技术特性：
 - **思考链（Chain-of-Thought, CoT）推理能力**  
 - **混合专家（Mixture of Experts, MoE）架构**  
 - **基于强化学习（Reinforcement Learning, RL）的优化机制**
@@ -128,7 +128,7 @@
 
 ## 📊 行业专用数据集库
 
-平台内置海量AI模型，这些数据集共同构成了从基础预训练到高级任务微调的完整数据生态，支持多语言、多模态大语言模型的开发与训练，点击[数据集列表](/Extra-Chapter/datasetlList)免费获取更多高质量数据集。
+平台内置海量AI模型，这些数据集共同构成了从基础预训练到高级任务微调的完整数据生态，支持多语言、多模态大语言模型的开发与训练，点击[数据集列表](./Extra-Chapter/datasetlList)免费获取更多高质量数据集。D:\LLaMA-Factory-Online\Extra-Chapter\datasetlList.md
 
 **基础预训练**数据集：包括wikipedia_zh、wikipedia_en、refinedweb和redpajama_v2等，它们规模巨大、内容通用，是模型学习语言和世界知识的基石。
 
