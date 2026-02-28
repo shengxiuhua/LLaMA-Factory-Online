@@ -265,7 +265,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 ---
 
-**About LLaMA-Factory**  
+**About LlamaFactory Online**  
 LlamaFactory Online is an open-source platform for LLM fine-tuning and deployment, dedicated to lowering the barrier to LLM applications and enabling every developer to easily use and customize large language models. Complete fine-tuning tasks effortlessly through interactive parameter selection without writing code, supporting training methods like SFT and DPO, optimization algorithms including LoRA and Freeze, and providing high-performance GPUs for single-machine multi-card and multi-machine multi-card distributed training.
 
 Scan the QR code to follow us for the latest technical updates and event information:
